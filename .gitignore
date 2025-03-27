@@ -2,9 +2,7 @@ ramexample.root
 *.csv
 *.log
 *.perf
-*.bam
 *.bam.bai
-*.root
 *.root.idx
 *.png
 .ipynb_checkpoints/
@@ -16,4 +14,3 @@ tmp/
 *.fq
 *.bk
 *.rootix
-*.sam
