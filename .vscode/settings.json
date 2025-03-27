@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "samtoram.C": "cpp",
+        "ramview.C": "cpp",
+        "ramreader.C": "cpp",
+        "ramview_no_index.C": "cpp",
+        "ramrecord.C": "cpp",
+        "ramrandom.C": "cpp",
+        "iostream": "cpp",
+        "parsetreestats.C": "cpp",
+        "rammerge.C": "cpp"
+    }
+}

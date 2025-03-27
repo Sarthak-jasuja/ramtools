@@ -8,6 +8,8 @@
 #include <TFile.h>
 #include <TTree.h>
 #include <TRandom.h>
+#include <stdio.h>
+using namespace std;
 
 #include "ramrecord.C"
 
